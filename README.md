@@ -3,7 +3,11 @@
     <h1 style="color: #ff5733;">Mi Perfil de GitHub</h1>
     <p >¡Bienvenido a mi perfil! Me gusta aprender.</p>
 </div>
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML](images/html.png)
+![CSS](images/css.png)
+![JavaScript](images/javascript.png)
+![Git](images/git.png)
+
 
 <!--
 **griseldae903/griseldae903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
