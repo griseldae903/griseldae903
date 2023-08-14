@@ -1,6 +1,6 @@
 ### Hi there 👋  🌱 I’m currently learning React
 
-
+<style background-color: #FDD9E5></style>
 <!--
 **griseldae903/griseldae903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
