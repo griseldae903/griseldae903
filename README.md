@@ -1,6 +1,6 @@
 ### Hi there 👋  🌱 I’m currently learning React
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"></a></p>
+
 
 <!--
 **griseldae903/griseldae903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
