@@ -3,7 +3,7 @@
     <h1 style="color: #ff5733;">Mi Perfil de GitHub</h1>
     <p >¡Bienvenido a mi perfil! Me gusta aprender.</p>
 </div>
-
+![HTML Icon](imagenPerfilGithub/images.jpg)
 
 
 <!--
