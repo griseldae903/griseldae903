@@ -1,4 +1,4 @@
-### Hi there 👋  🌱 I’m currently learning React
+### Hola ola 👋  🌱 I’m currently learning React
 <div >
     <h1 style="color: #ff5733;">Mi Perfil de GitHub</h1>
     <p >¡Bienvenido a mi perfil! Me gusta aprender.</p>
