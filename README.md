@@ -1,7 +1,7 @@
 ### Hi there 👋  🌱 I’m currently learning React
-<div style="background-color: #f9c5d1; padding: 20px;">
+<div >
     <h1 style="color: #ff5733;">Mi Perfil de GitHub</h1>
-    <p style="color: #333;">¡Bienvenido a mi perfil! Me gusta aprender.</p>
+    <p >¡Bienvenido a mi perfil! Me gusta aprender.</p>
 </div>
 
 <!--
